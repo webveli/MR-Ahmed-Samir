@@ -96,8 +96,18 @@
 ---
 
 ## 🔥 Featured Projects
-- [![Hamster Bot Script Telegram](https://github-readme-stats.vercel.app/api/pin/?username=Webveli&repo=Hamster-Bot-Script-Telegram&theme=radical)](https://github.com/Makavael/Hamster-Bot-Script-Telegram) 
-- [![Libscript Master](https://github-readme-stats.vercel.app/api/pin/?username=Makavael&repo=Libscript-master&theme=radical)](https://github.com/Makavael/Libscript-master)
+
+<div align="center">
+  <!-- Webveli Project -->
+  <a href="https://webveli.com">
+    <img src="https://img.shields.io/badge/Webveli-Explore-orange?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Webveli Website" />
+  </a>
+
+  <!-- Makavael Project -->
+  <a href="https://makavael.com">
+    <img src="https://img.shields.io/badge/Makavael.com-Discover-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Makavael Website" />
+  </a>
+</div>
 
 ---
 
